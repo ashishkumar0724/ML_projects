@@ -86,11 +86,11 @@ Before you begin, ensure you have:
 
 1. **Clone the repository (or download the project ZIP)**
    ```bash
-   git clone https://github.com/ashishkumar0724/CODSOFT.git
+   git clone https://github.com/ashishkumar0724/ML_projects.git
 
 2.  **Navigate to the project directory:**
     ```bash
-        cd CODSOFT
+        cd ML_projects/sms_spam_detector
 3.  **Install the dependencies:**
         
 
